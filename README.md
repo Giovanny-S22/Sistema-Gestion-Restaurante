@@ -15,3 +15,49 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 - Francisco Pantoja Estrada
 - Carlos Daniel Otalora
 - Luis Orlando Victoria
+
+# Arquitectura del Sistema de Gestión de Restaurantes
+
+---
+
+## 📥 Entradas (Inputs)
+
+- 
+- 
+- 
+
+---
+
+## ⚙️ Procesos (Throughput)
+
+- 
+- 
+- 
+
+---
+
+## 📤 Salidas (Outputs)
+
+- 
+- 
+- 
+
+---
+
+## 👥 Usuarios y Roles
+
+- **Administrador:**
+  - 
+  - 
+
+- **Usuario:**
+  - 
+  - 
+
+---
+
+## 📊 Información Manejada
+
+- 
+- 
+- 

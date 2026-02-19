@@ -96,7 +96,15 @@ Opciones seleccionables (rol, método de pago
 -Reportes generados
 
 ## 📤 Salidas (Outputs)
+-Factura o comprobante de pago
 
+-Reporte de ventas
+
+-Reporte de inventario
+
+-Alertas de bajo stock
+
+-Estadísticas de rendimiento del restaurante
 
 
 ---

@@ -83,17 +83,21 @@ Opciones seleccionables (rol, método de pago
 
 -Ganancias totales
 
-
-
 ###Lo que Guarda
 
--
+-Historial de ventas
+
+-Registro de pedidos
+
+-Información del inventario
+
+-Datos de usuarios
+
+-Reportes generados
 
 ## 📤 Salidas (Outputs)
 
-- 
-- 
-- 
+
 
 ---
 

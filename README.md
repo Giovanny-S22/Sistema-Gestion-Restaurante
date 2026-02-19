@@ -86,7 +86,13 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
   - actualiza estado del pedido
   - registra ventas
   - consulta disponibilidad
+## 📊 Información Manejada
 
+  - informacion operativa diaria
+  - control de proveedores
+  - estadistica de consumo
+  - indicadores de rentabilidad
+  - historial de actividad del sistema
 
 
  

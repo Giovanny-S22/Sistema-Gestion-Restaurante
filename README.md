@@ -21,55 +21,38 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 ---
 
 ## 📥 Entradas (Inputs)
+-Pedidos de los clientes (platos, cantidades, número de mesa)
 
+-Datos del inventario (productos, cantidades disponibles, proveedor)
+
+-Información de ventas (total, método de pago, fecha)
+
+-Datos de usuarios (nombre, rol, contraseña)
+
+Actualización de precios y menú
 ### ¿Qué datos recibe el sistema?
 
--Nombre del cliente  
--Numero de mesa  
--Platos seleccionados  
--Cantidad  
--Metodo de pago  
--Datos del empleado (tipo de usuario)
-
+-
 ### ¿Quién los ingresa?
 
--Mesero:  
- -Ingresa los pedidos  
--Cajero:  
- -Registra los pagos  
--Administrador:  
- -Registra el menú  
- -Da roles a los empleados(mesero,cajero)
+-
  
 ### Tipo de datos
 
- -Texto  
- -Números  
- -Fechas
+ -
  
 ## ⚙️ Procesos (Throughput)
 
 ###Lo que hace el sistema
 
--Registra pedidos  
--Calcula el total  
--Valida que los datos ingresados esten completos y haya inventario  
--Guarda la información  
--Genera Factura  
--Actualiza inventario
-
+-
 ###Lo que Calcula
 
--Total a pagar  
--Cambio  
--Venta del dia
+
 
 ###Lo que Guarda
 
--Pedidos  
--Productos  
--Ventas  
--Inventario
+-
 
 ## 📤 Salidas (Outputs)
 

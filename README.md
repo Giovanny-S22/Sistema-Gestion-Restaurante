@@ -112,13 +112,20 @@ Opciones seleccionables (rol, método de pago
 ## 👥 Usuarios y Roles
 
 - **Administrador:**
-  - 
-  - 
+  - Gestiona inventario y usuarios
+
+ - Consulta reportes y estadísticas
+
+ - Tiene acceso total al sistema
+    
 
 - **Usuario:**
-  - 
-  - 
+  - Registra pedidos o pagos
 
+  - Consulta información básica
+
+  - Acceso limitado según funciones
+    
 ---
 
 ## 📊 Información Manejada

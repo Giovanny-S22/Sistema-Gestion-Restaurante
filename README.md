@@ -113,5 +113,22 @@ No. Cada usuario tiene funciones específicas:
 Sí. El sistema controla el acceso según el rol del usuario para evitar modificaciones no autorizadas.
 
 ---
+# 📊 Información
 
+# ¿Qué datos son críticos?
+
+- Registros ventas.
+- Pedidos.
+- Inventario.
+- Empleados.
+- Historial.
+
+# ¿Qué no se puede perder?
+
+- Ventas diarias.
+- Datos del inventario.
+- Registro de pagos.
+- Cierre de caja.
+  
+- La pérdida de datos afectaría la operación y la toma de decisiones en el restaurante.
 

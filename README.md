@@ -32,7 +32,15 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 -Actualización de precios y menú
 ### ¿Qué datos recibe el sistema?
 
--
+-Pedidos de los clientes (platos, cantidades, número de mesa)
+
+-Datos del inventario (productos, cantidades disponibles, proveedor)
+
+-Información de ventas (total, método de pago, fecha)
+
+-Datos de usuarios (nombre, rol, contraseña)
+
+-Actualización de precios y menú
 ### ¿Quién los ingresa?
 
 -Meseros → Registran pedidos

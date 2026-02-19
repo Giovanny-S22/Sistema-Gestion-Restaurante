@@ -30,6 +30,47 @@ El sistema recibe los siguientes datos:
 -   cantidades, precios, número de mesa.
 - Fechas:
 -registro de ventas:
+
+# ⚙️ Procesos
+
+# ¿Qué hace el sistema con esos datos?
+
+- Valida que la información esté completa.
+- Disponibilidad en el inventario.
+- Registra los pedidos.
+- Calcula la venta.
+- Aplica impuestos si corresponde.
+- Controla el acceso.
+
+# ¿Valida?
+
+Sí. Verifica que:
+- Los datos estén completos.
+- El producto exista en el menú.
+- La cantidad solicitada esté disponible.
+- El usuario tenga permisos según su rol.
+
+# ¿Calcula?
+
+Sí. El sistema:
+- Calcula subtotales.
+- Calcula totales finales.
+- Genera reportes diarios de ventas.
+
+# ¿Guarda?
+
+Sí. Almacena:
+- Pedidos.
+- Ventas.
+- Pagos.
+- Movimientos de inventario.
+- - Información de empleados.
+
+---
+## 📤 Salidas
+
+
+
      Datos estructurados almacenados en base de datos.
 
 ---

@@ -75,5 +75,18 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 - reponte de provedores
 - resumen de promociones aplicadas
 
+  ## 👥 Usuarios y Roles
+
+- **Administrador:**
+  - configura promociones
+  - administra proveedores
+  - consulta estadisticas completas
+
+- **Usuario:**
+  - actualiza estado del pedido
+  - registra ventas
+  - consulta disponibilidad
+
+
 
  

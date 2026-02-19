@@ -92,5 +92,26 @@ Sí. Permite al administrador:
 
 ---
 
-## 👥 Usuarios
+# 👥 Usuarios
+
+# ¿Quién usa el sistema?
+
+- Administrador.
+- Mesero.
+- Cajero.
+
+# ¿Todos hacen lo mismo?
+
+No. Cada usuario tiene funciones específicas:
+
+- **Administrador:** Gestiona menú, empleados y reportes.
+- **Mesero:** Registra pedidos.
+- **Cajero:** Registra pagos y genera facturas.
+
+# ¿Hay permisos?
+
+Sí. El sistema controla el acceso según el rol del usuario para evitar modificaciones no autorizadas.
+
+---
+
 

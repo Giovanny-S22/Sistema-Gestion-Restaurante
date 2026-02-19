@@ -43,4 +43,29 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 - codigos
 - valores decimales
 - fechas programadas
+
+## ⚙️ Procesos (Throughput)
+
+###Lo que hace el sistema
+
+- asigna numero unico
+- cambia el estado del pedido
+- regista entradas y salidas
+- controla descueto y promociones
+
+
+###Lo que Calcula
+
+- subtotal del producto
+- descuentos aplicados
+- costo total del pedido
+- consumo promedio de ingredientes
+
+###Lo que Guarda
+
+- historial de cambios de pedido
+- registro de provedores
+- control de devoluciones
+- estadistica de consumo
+
  

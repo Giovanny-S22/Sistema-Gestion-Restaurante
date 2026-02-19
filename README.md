@@ -1,98 +1,37 @@
 # Sistema de Gestión para Restaurante
+# Arquitectura del Sistema de Gestión de Restaurante
 
-## Descripción
-Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diario de ventas en un restaurante.
+## 📥 Entradas
 
-## Funcionalidades
-- Registro de pedidos
-- Visualización en pantalla de cocina
-- Generación de facturas
-- Cierre diario de caja
-- Control de inventario
+El sistema recibe los siguientes datos:
 
-## Equipo
-- Giovanny Charfuelan Silva
-- Francisco Pantoja Estrada
-- Carlos Daniel Otalora
-- Luis Orlando Victoria
+  Nombre del cliente.
+- Número de mesa.
+- Platos seleccionados.
+- Cantidad de cada plato.
+- Método de pago.
+- Datos del empleado (usuario y rol).
+- Información del inventario.
+- Fecha y hora de la transacción.
 
-# Arquitectura del Sistema de Gestión de Restaurantes
+# ¿Quién los ingresa?
 
----
+- Mesero:
+-   Ingresa los pedidos, número de mesa.
+- Cajero:
+-   Registra el método de pago, confirma la transacción.
+- Administrador:
+-   Registra el menú, precios, roles de empleados.
 
-## 📥 Entradas (Inputs)
-
-### ¿Qué datos recibe el sistema?
-
--Nombre del cliente  
--Numero de mesa  
--Platos seleccionados  
--Cantidad  
--Metodo de pago  
--Datos del empleado (tipo de usuario)
-
-### ¿Quién los ingresa?
-
--Mesero:  
- -Ingresa los pedidos  
--Cajero:  
- -Registra los pagos  
--Administrador:  
- -Registra el menú  
- -Da roles a los empleados(mesero,cajero)
- 
-### Tipo de datos
-
- -Texto  
- -Números  
- -Fechas
- 
-## ⚙️ Procesos (Throughput)
-
-###Lo que hace el sistema
-
--Registra pedidos  
--Calcula el total  
--Valida que los datos ingresados esten completos y haya inventario  
--Guarda la información  
--Genera Factura  
--Actualiza inventario
-
-###Lo que Calcula
-
--Total a pagar  
--Cambio  
--Venta del dia
-
-###Lo que Guarda
-
--Pedidos  
--Productos  
--Ventas  
--Inventario
-
-## 📤 Salidas (Outputs)
-
-- 
-- 
-- 
+# ¿Son números, texto o archivos?
+- Texto:
+-   nombre del cliente, nombre de platos.
+- Números:
+-   cantidades, precios, número de mesa.
+- Fechas:
+-registro de ventas:
+     Datos estructurados almacenados en base de datos.
 
 ---
-
-## 👥 Usuarios y Roles
-
-- **Administrador:**
-  - 
-  - 
-
-- **Usuario:**
-  - 
-  - 
-
----
-
-## 📊 Información Manejada
-
 - 
-- 
-- 
+## ⚙️ Procesos

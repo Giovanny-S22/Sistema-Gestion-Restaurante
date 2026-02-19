@@ -55,7 +55,15 @@ Opciones seleccionables (rol, método de pago
 
 ###Lo que hace el sistema
 
--
+-Registra y almacena pedidos en la base de datos
+
+-Verifica disponibilidad de productos en inventario
+
+-Controla el acceso según el rol del usuario
+
+-Actualiza automáticamente el inventario después de cada venta
+
+Genera reportes administrativos
 ###Lo que Calcula
 
 

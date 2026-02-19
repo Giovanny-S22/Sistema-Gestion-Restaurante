@@ -29,13 +29,17 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 
 -Datos de usuarios (nombre, rol, contraseña)
 
-Actualización de precios y menú
+-Actualización de precios y menú
 ### ¿Qué datos recibe el sistema?
 
 -
 ### ¿Quién los ingresa?
 
--
+-Meseros → Registran pedidos
+
+-Cajero → Registra pagos
+
+-Administrador → Gestiona inventario, precios y usuarios
  
 ### Tipo de datos
 

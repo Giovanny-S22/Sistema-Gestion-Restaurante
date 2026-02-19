@@ -49,7 +49,7 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
  
 ## ⚙️ Procesos (Throughput)
 
-###Lo que hace el sistema
+### Lo que hace el sistema
 
 -Registra pedidos  
 -Calcula el total  
@@ -58,13 +58,13 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 -Genera Factura  
 -Actualiza inventario
 
-###Lo que Calcula
+### Lo que Calcula
 
 -Total a pagar  
 -Cambio  
 -Venta del dia
 
-###Lo que Guarda
+### Lo que Guarda
 
 -Pedidos  
 -Productos  
@@ -73,11 +73,18 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 
 ## 📤 Salidas (Outputs)
 
-- 
-- 
-- 
+### ¿Qué obtiene el usuario?
 
----
+-Total a pagar   
+-Factura  
+-Confirmación de pedido
+
+### ¿Qué genera el sistema?
+-Reporte de Ventas  
+-Lista de productos mas vendididos
+
+### ¿Permite tomar decisiones?
+-Si, ayuda a controlar ventas e inventario
 
 ## 👥 Usuarios y Roles
 

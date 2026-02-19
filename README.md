@@ -43,7 +43,13 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
  
 ### Tipo de datos
 
- -
+ -Texto (nombre de productos, nombres de usuarios)
+
+-Números (precios, cantidades, totales)
+
+-Fechas y horas
+
+Opciones seleccionables (rol, método de pago
  
 ## ⚙️ Procesos (Throughput)
 

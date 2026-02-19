@@ -106,3 +106,12 @@ Si.
 -Mesero: Registra pedidos
 
 ## 📊 Información Manejada
+ ### ¿Qué datos son críticos?
+-Ventas  
+-Pagos  
+-Inventario  
+-Datos de empleados
+
+### ¿Qué no se puede perder?
+-Registro de ventas
+-Información de pagos

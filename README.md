@@ -88,18 +88,21 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 
 ## 👥 Usuarios y Roles
 
-- **Administrador:**
-  - 
-  - 
+### ¿Quién usa el sistema?
 
-- **Usuario:**
-  - 
-  - 
+-Administrador  
+-Cajero  
+-Mesero
 
----
+### ¿Todos hacen lo mismo?
+
+No, cada usuario tiene una funcion diferente
+
+### ¿Hay permisos?
+
+Si.  
+-Administrador: Controla todo  
+-Cajero: Procesa los pagos  
+-Mesero: Registra pedidos
 
 ## 📊 Información Manejada
-
-- 
-- 
-- 

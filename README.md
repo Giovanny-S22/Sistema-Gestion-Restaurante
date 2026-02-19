@@ -130,6 +130,10 @@ Opciones seleccionables (rol, método de pago
 
 ## 📊 Información Manejada
 
-- 
-- 
-- 
+- Datos financieros (ventas, ingresos)
+
+- Datos operativos (pedidos e inventario)
+
+- Datos de usuarios
+
+- Información histórica para toma de decisiones  

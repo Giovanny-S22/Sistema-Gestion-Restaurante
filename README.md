@@ -68,4 +68,12 @@ Sistema diseñado para gestionar pedidos, facturación, inventario y cierre diar
 - control de devoluciones
 - estadistica de consumo
 
+  ## 📤 Salidas (Outputs)
+
+- comprobate de orden conestado actualizado
+- reporte de consumo de ingredientes
+- reponte de provedores
+- resumen de promociones aplicadas
+
+
  

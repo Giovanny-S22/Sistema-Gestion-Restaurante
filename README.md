@@ -63,8 +63,17 @@ Opciones seleccionables (rol, método de pago
 
 -Actualiza automáticamente el inventario después de cada venta
 
-Genera reportes administrativos
+-Genera reportes administrativos
 ###Lo que Calcula
+-Total de la cuenta por pedido
+
+-Impuestos (si aplica)
+
+-Ventas diarias, semanales y mensuales
+
+-Productos más vendidos
+
+-Ganancias totales
 
 
 

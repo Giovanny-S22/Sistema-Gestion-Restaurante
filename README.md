@@ -67,12 +67,30 @@ Sí. Almacena:
 - - Información de empleados.
 
 ---
-## 📤 Salidas
+# 📤 Salidas
 
+# ¿Qué obtiene el usuario?
 
+- Factura comprobante de pago.
+- Pedido comnfirmado.
+- Total pagado.
 
-     Datos estructurados almacenados en base de datos.
+# ¿Qué genera el sistema?
+
+- Reporte de ventas.
+- Estado del inventario.
+- Historial.
+- Cierre de caja.
+
+# ¿Permite tomar decisiones?
+
+Sí. Permite al administrador:
+- Analizar ventas diarias.
+- Identificar productos más vendidos.
+- Controlar inventario.
+- - Evaluar el rendimiento del negocio.
 
 ---
-- 
-## ⚙️ Procesos
+
+## 👥 Usuarios
+

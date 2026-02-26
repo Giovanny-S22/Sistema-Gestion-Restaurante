@@ -48,4 +48,11 @@ aumentando la probabilidad de errores y desorden dentro del mismo.
 emitir facturas, controlar el inventario y generar reportes de ventas, para poder mejorar
 la organización y la eficiencia de los procesos que se desarrolan en el mismo.
 
+## 2.Objetivos especificos
+
+-Automatizar el registro de pedidos y la emisión de facturas para reducir errores 
+y hacer que el servicio sea mas rapido.  
+-Immplementar un control automatico de ventas e inventario que permita generar
+reportes diarios o reportes generales y que facilite el cierre de caja.
+
 

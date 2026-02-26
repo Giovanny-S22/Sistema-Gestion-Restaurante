@@ -55,4 +55,9 @@ y hacer que el servicio sea mas rapido.
 -Immplementar un control automatico de ventas e inventario que permita generar
 reportes diarios o reportes generales y que facilite el cierre de caja.
 
+## 3.Nivel de desicion principal usado
+
+-El sistema impacta principalmente en el nivel operativo, ya que ayuda a tomar y gestionar
+desiciones diarias como el registro de pedidos, facturación y el cierre de caja.
+
 

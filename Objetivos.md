@@ -26,3 +26,11 @@
 -Control de costos y gastos.
 -Planeación de expansión del negocio.
 --
+#4-¿Qué pasaria si no existiera ese sistema?#
+-
+-Continuarían los errores en pedidos y registros.
+-Habría pérdidas por mal control de inventario.
+-No existirían reportes confiables en tiempo real.
+-Las decisiones se tomarían sin datos precisos.
+-Menor competitividad y crecimiento limitado del restaurante.
+

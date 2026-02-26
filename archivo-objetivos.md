@@ -27,8 +27,13 @@ el crecimiento del negocio.
 
 ### ¿Que decisiones permitira tomar?
 
-Permitira decidir: 
+Permitira decidir:  
 -Que productos se venden mas.  
 -Cuando ya no hay inventario y toca reabastecer.  
--Cuánto se vende diariamente.
+-Cuánto se vende diariamente.  
 -Como se manejan las ganancias del negocio(si es inversion o no).
+
+### ¿Que pasaría si no existiera el sistema?
+
+-Si no existiera el sistema el restaurante deberia seguir trabajando manualmente,
+aumentando la probabilidad de errores y desorden dentro del mismo.

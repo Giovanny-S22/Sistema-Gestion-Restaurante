@@ -18,4 +18,9 @@
   -El crecimiento del negocio sería más lento y desorganizado.
   ### Objetivo general del sistema
   -Diseñar e implementar un Sistema de Información estratégico que automatice los procesos de pedidos, ventas e inventario del restaurante, con el fin de optimizar la gestión operativa y facilitar la toma de decisiones basadas en datos reales.
-
+  ### Dos objetivos específicos
+  -Automatizar el registro de pedidos y ventas para reducir errores manuales y mejorar la eficiencia del servicio.
+  ### Nivel de decisión principal  que impacta
+  -El sistema impacta principalmente el nivel estratégico, ya que permite al administrador tomar decisiones a mediano y largo plazo basadas en reportes y análisis de datos.
+  También influye en el nivel operativo al mejorar el control diario de pedidos y ventas.
+  

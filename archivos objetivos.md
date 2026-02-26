@@ -22,7 +22,14 @@
 - implementar un medulo de analitica que genere reportes dinamicos sobre el
   comportamiento de ventas, rotacion de productos y niveles de stock
 ## Impacto en la toma de decisiones
-- 
+- optimizar la ejecucion diaria y el flujo de trabajo del personal en el punto de venta
+## caracteristicas criticas
+- precision absoluta en la trazabilidad de inventarios y el calculo de transacciones
+- control de acceso basado en roles oara proteger la informacion sensible
+- implementacion de protocolos de respaldo y proteccion de la base de datos contra perdidas de informacion
+## Decisiones estrategicas habilitadas
+- evalual en rendimiento mensual con metricas claras para optimizar costos operativos
+- identificar articulos con mayor margen de utilidad y eliminar aquellos que no generan valor.
  
 
    

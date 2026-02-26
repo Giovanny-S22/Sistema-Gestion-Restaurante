@@ -10,10 +10,12 @@
   -Controlar gastos y mejorar la rentabilidad.
   -Evaluar el desempeño general del restaurante.
   -Optimizar tiempos de atención al cliente. 
-  ###¿Que pasaría si no existiera ese sistema?
+  ### ¿Que pasaría si no existiera ese sistema?
   -Continuarían los errores en los registros manuales.
   -Habría mayor riesgo de pérdidas económicas.
   -Se dificultaría el control del inventario.
   -No habría datos claros para tomar decisiones estratégicas.
   -El crecimiento del negocio sería más lento y desorganizado.
+  ### Objetivo general del sistema
+  -Diseñar e implementar un Sistema de Información estratégico que automatice los procesos de pedidos, ventas e inventario del restaurante, con el fin de optimizar la gestión operativa y facilitar la toma de decisiones basadas en datos reales.
 

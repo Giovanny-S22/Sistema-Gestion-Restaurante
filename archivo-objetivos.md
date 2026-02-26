@@ -24,3 +24,11 @@ y ayudar a tomar decisiones a un mediano plazo.
 -De manera indirecta tambien puede participar el nivel estrategico porque se puede
 proporcionar información que ayude a tomar decisiones a mas largo plazo y a planear
 el crecimiento del negocio.
+
+### ¿Que decisiones permitira tomar?
+
+Permitira decidir: 
+-Que productos se venden mas.  
+-Cuando ya no hay inventario y toca reabastecer.  
+-Cuánto se vende diariamente.
+-Como se manejan las ganancias del negocio(si es inversion o no).

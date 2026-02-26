@@ -17,3 +17,12 @@
 -Nivel operativo:
 - Tener registro y gestión diaria de los pedidos.
 --
+#3-¿Qué desiciones permitira tomar?#
+-
+-Reabastecer productos del inventario.
+-Qué productos generan una mayor rentabilidad.
+-Ajustes de precios según ventas.
+-Implementación de promociones.
+-Control de costos y gastos.
+-Planeación de expansión del negocio.
+--

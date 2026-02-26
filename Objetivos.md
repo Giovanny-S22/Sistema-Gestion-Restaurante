@@ -52,3 +52,11 @@ Rendimiento de análisis financiero y operativo del restaurante.
 
 Nivel estratégico: apoyar la planificación, control y proyección del negocio.
 
+# Caracteristicas criticas que deben cumplir.
+
+Confiabilidad en los datos.
+Actualización en tiempo real.
+Seguridad y un respaldo de la información.
+Facilidad de uso para el personal.
+Integración entre módulos (ventas, inventario y reportes).
+

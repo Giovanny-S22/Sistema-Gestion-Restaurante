@@ -60,3 +60,11 @@ Seguridad y un respaldo de la información.
 Facilidad de uso para el personal.
 Integración entre módulos (ventas, inventario y reportes).
 
+# ¿Qué decision permitiria tomar?
+
+Restablecimiento del inventario.
+Identificar productos de mayor a menor ventas.
+Ajustar precios según su rentabilidad.
+Contar con estrategias de crecimiento para el veneficio del restaurante.
+
+---

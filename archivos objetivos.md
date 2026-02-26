@@ -17,7 +17,12 @@
   el ciclo operativo de pedididos, ventas e inventarios
   permitiendo una gestion eficiente del restaurante y facilitandola
   la tima de decisiones
-
+## Objetivos Especificos
+- dijitalizar el flujo de pedidos y ventas para minimizar errores humanos
+- implementar un medulo de analitica que genere reportes dinamicos sobre el
+  comportamiento de ventas, rotacion de productos y niveles de stock
+## Impacto en la toma de decisiones
+- 
  
 
    

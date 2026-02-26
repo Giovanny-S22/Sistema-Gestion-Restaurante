@@ -10,4 +10,17 @@ inventario es muy malo, genera errores y desorden. El sistema permitira
 registrar pedidos, emitir facturas y llevar control de ventas ya se a largo
 o a corto plazo, y llevar control del inventario.
 
+### ¿A que nivel de desición impacta?
 
+-El sistema impacta principalmente en el nivel operativo y táctico: 
+
+-Nivel Operativo: Porque esta presente en las actividades diarias
+que se realizan en el restaurante, como la toma de pedidos, la facturación y 
+el cierre diario de caja.
+
+-Nivel táctico: Porque se puede analizar reportes de ventas, controlar el inventario
+y ayudar a tomar decisiones a un mediano plazo.
+
+-De manera indirecta tambien puede participar el nivel estrategico porque se puede
+proporcionar información que ayude a tomar decisiones a mas largo plazo y a planear
+el crecimiento del negocio.

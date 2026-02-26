@@ -12,6 +12,11 @@
 - el crecimiento del negocio seria lento y desordenado
 - habria mayor riesgos de perdidas economicas
 - se dificultaria el control del inventario
+## Objetivo General
+- desarrollar una solucion tecnica integral que automatice
+  el ciclo operativo de pedididos, ventas e inventarios
+  permitiendo una gestion eficiente del restaurante y facilitandola
+  la tima de decisiones
 
  
 

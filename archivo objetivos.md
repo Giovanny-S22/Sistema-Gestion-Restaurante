@@ -23,4 +23,11 @@
   ### Nivel de decisión principal  que impacta
   -El sistema impacta principalmente el nivel estratégico, ya que permite al administrador tomar decisiones a mediano y largo plazo basadas en reportes y análisis de datos.
   También influye en el nivel operativo al mejorar el control diario de pedidos y ventas.
+  ### Características críticas que debe cumplir
+  -Precisión en los cálculos de ventas e inventario.
+  -Seguridad en el manejo de usuarios y datos financieros.
+  -Disponibilidad de información en tiempo real.
+  -Control de acceso según roles.
+  -Respaldo y protección de la información.
+ 
   

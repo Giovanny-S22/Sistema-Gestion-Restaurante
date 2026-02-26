@@ -1,4 +1,4 @@
-#1-¿Qué problema soluciona?
+# 1-¿Qué problema soluciona?
 
 Solución manual de pedidos.
 La probabilidad de errores.
@@ -16,7 +16,7 @@ control de inventario y la supervisión de ventas.
 Nivel operativo:
 Tener registro y gestión diaria de los pedidos.
 
-#3-¿Qué desiciones permitira tomar?
+# 3-¿Qué desiciones permitira tomar?
 
 Reabastecer productos del inventario.
 Qué productos generan una mayor rentabilidad.
@@ -25,7 +25,7 @@ Implementación de promociones.
 Control de costos y gastos.
 Planeación de expansión del negocio.
 
-#4-¿Qué pasaria si no existiera ese sistema?
+# 4-¿Qué pasaria si no existiera ese sistema?
 
 Continuarían los errores en pedidos y registros.
 Habría pérdidas por mal control de inventario.
@@ -40,3 +40,10 @@ Automatizar y optimizar los procesos de registro de pedidos.
 Control de ventas e inventario del restaurante.
 Proporcionar información confiable en tiempo real.
 Mejorar la toma de decisiones con respecto a la información.
+
+# Dos objetivos especificos.
+
+Implementar un módulo de control del inventario:
+Permitir registrar entradas y salidas de productos automáticamente.
+Generar reportes de ventas:
+Rendimiento de análisis financiero y operativo del restaurante.

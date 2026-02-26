@@ -29,5 +29,13 @@
   -Disponibilidad de información en tiempo real.
   -Control de acceso según roles.
   -Respaldo y protección de la información.
+  ### ¿Qué decisión permitirá tomar?
+  -El sistema permitirá tomar decisiones como:
+  -Ajustar precios según el rendimiento de ventas.
+  -Determinar cuándo reabastecer inventario.
+  -Identificar productos más rentables.
+  -Evaluar el crecimiento del negocio.
+  -Optimizar recursos y reducir pérdidas.
+
  
   

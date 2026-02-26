@@ -8,3 +8,12 @@
 -Pérdida de tiempo en procesos administrativos.
 -
 -
+#2-¿A qué nivel de desición impacta?#
+-
+-Nivel estratégico:
+- análisis del negocio y tener una proyección de crecimiento.
+-Nivel táctico.
+- control de inventario y la supervisión de ventas.
+-Nivel operativo:
+- Tener registro y gestión diaria de los pedidos.
+--

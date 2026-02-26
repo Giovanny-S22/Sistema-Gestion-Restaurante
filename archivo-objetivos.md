@@ -60,4 +60,10 @@ reportes diarios o reportes generales y que facilite el cierre de caja.
 -El sistema impacta principalmente en el nivel operativo, ya que ayuda a tomar y gestionar
 desiciones diarias como el registro de pedidos, facturación y el cierre de caja.
 
+## 4.Características críticas que debe cumplir
 
+- Registro rápido y correcto de pedidos.
+- Generación automática de facturas y recibos.
+- Actualización automática del inventario.
+- Generación de reportes diarios de ventas.
+- Seguridad y almacenamiento confiable de la información.

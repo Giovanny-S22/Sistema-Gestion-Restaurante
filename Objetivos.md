@@ -7,7 +7,7 @@ Desorganización en el manejo del inventario.
 Dificultad para analizar el rendimiento del restaurante.
 Pérdida de tiempo en procesos administrativos.
 
-#2-¿A qué nivel de desición impacta?
+# 2-¿A qué nivel de desición impacta?
 
 Nivel estratégico:
 análisis del negocio y tener una proyección de crecimiento.
@@ -47,3 +47,8 @@ Implementar un módulo de control del inventario:
 Permitir registrar entradas y salidas de productos automáticamente.
 Generar reportes de ventas:
 Rendimiento de análisis financiero y operativo del restaurante.
+
+# Nivel de decisión principal que impacta.
+
+Nivel estratégico: apoyar la planificación, control y proyección del negocio.
+

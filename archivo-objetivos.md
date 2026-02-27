@@ -1,6 +1,6 @@
 # Sistema de Gestión de Restaurantes
 
-## Analisis del proyecto
+# Analisis del proyecto
 
 ### ¿Que problema soluciona?
 
@@ -44,9 +44,9 @@ aumentando la probabilidad de errores y desorden dentro del mismo.
 
 ## 1.Objetivo General
 
-- Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
+-Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
 emitir facturas, controlar el inventario y generar reportes de ventas, para poder mejorar
-la organización y la eficiencia de los procesos que se desarrolan en el mismo.
+la organización y la eficiencia de los procesos que se desarrollan en el mismo.
 
 ## 2.Objetivos especificos
 
@@ -75,4 +75,3 @@ Permitira decidir:
 - Cuando ya no hay inventario y se debe reabastecer.  
 - Cuánto se vende diariamente.  
 - Ver el rendimiento del restaurante.
-

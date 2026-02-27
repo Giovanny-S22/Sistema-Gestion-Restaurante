@@ -29,9 +29,9 @@ el crecimiento del negocio.
 
 Permitira decidir:  
 - Que productos se venden mas.  
-- Cuando ya no hay inventario y toca reabastecer.  
+- Cuando ya no hay inventario y se debe reabastecer.  
 - Cuánto se vende diariamente.  
-- Ver el rendimiento del restaurante
+- Ver el rendimiento del restaurante.
 
 ### ¿Que pasaría si no existiera el sistema?
 
@@ -46,18 +46,18 @@ aumentando la probabilidad de errores y desorden dentro del mismo.
 
 -Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
 emitir facturas, controlar el inventario y generar reportes de ventas, para poder mejorar
-la organización y la eficiencia de los procesos que se desarrolan en el mismo.
+la organización y la eficiencia de los procesos que se desarrollan en el mismo.
 
 ## 2.Objetivos especificos
 
--Automatizar el registro de pedidos y la emisión de facturas para reducir errores 
+- Automatizar el registro de pedidos y la emisión de facturas para reducir errores 
 y hacer que el servicio sea mas rapido.  
--Immplementar un control automatico de ventas e inventario que permita generar
+- Immplementar un control automatico de ventas e inventario que permita generar
 reportes diarios o reportes generales y que facilite el cierre de caja.
 
-## 3.Nivel de desicion principal usado
+## 3.Nivel de desición principal usado
 
--El sistema impacta principalmente en el nivel operativo, ya que ayuda a tomar y gestionar
+- El sistema impacta principalmente en el nivel operativo, ya que ayuda a tomar y gestionar
 desiciones diarias como el registro de pedidos, facturación y el cierre de caja.
 
 ## 4.Características críticas que debe cumplir
@@ -72,6 +72,6 @@ desiciones diarias como el registro de pedidos, facturación y el cierre de caja
 
 Permitira decidir:  
 - Que productos se venden mas.  
-- Cuando ya no hay inventario y toca reabastecer.  
+- Cuando ya no hay inventario y se debe reabastecer.  
 - Cuánto se vende diariamente.  
-- Ver el rendimiento del restaurante
+- Ver el rendimiento del restaurante.

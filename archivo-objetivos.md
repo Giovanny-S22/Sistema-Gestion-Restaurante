@@ -44,7 +44,14 @@ aumentando la probabilidad de errores y desorden dentro del mismo.
 
 ## 1.Objetivo General
 
--Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
+- Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
 emitir facturas, controlar el inventario y generar reportes de ventas, para poder mejorar
 la organización y la eficiencia de los procesos que se desarrolan en el mismo.
+
+## 2.Objetivos especificos
+
+- Automatizar el registro de pedidos y la emisión de facturas para reducir errores 
+y hacer que el servicio sea mas rapido.  
+- Immplementar un control automatico de ventas e inventario que permita generar
+reportes diarios o reportes generales y que facilite el cierre de caja.
 

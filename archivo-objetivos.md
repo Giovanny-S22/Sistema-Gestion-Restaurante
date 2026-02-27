@@ -28,10 +28,10 @@ el crecimiento del negocio.
 ### ¿Que decisiones permitira tomar?
 
 Permitira decidir:  
--Que productos se venden mas.  
--Cuando ya no hay inventario y toca reabastecer.  
--Cuánto se vende diariamente.  
--Como se manejan las ganancias del negocio(si es inversion o no).
+- Que productos se venden mas.  
+- Cuando ya no hay inventario y se debe reabastecer.  
+- Cuánto se vende diariamente.  
+- Ver el rendimiento del restaurante.
 
 ### ¿Que pasaría si no existiera el sistema?
 
@@ -67,4 +67,12 @@ desiciones diarias como el registro de pedidos, facturación y el cierre de caja
 - Actualización automática del inventario.
 - Generación de reportes diarios de ventas.
 - Seguridad y almacenamiento confiable de la información.
+
+## 5.¿Qué decisiones permitira tomar?
+
+Permitira decidir:  
+- Que productos se venden mas.  
+- Cuando ya no hay inventario y se debe reabastecer.  
+- Cuánto se vende diariamente.  
+- Ver el rendimiento del restaurante.
 

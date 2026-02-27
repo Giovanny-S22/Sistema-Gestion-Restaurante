@@ -37,3 +37,14 @@ Permitira decidir:
 
 -Si no existiera el sistema el restaurante deberia seguir trabajando manualmente,
 aumentando la probabilidad de errores y desorden dentro del mismo.
+
+---
+
+# Objetivos
+
+## 1.Objetivo General
+
+-Desarrollar un Sistema de Gestión para Restaurantes que permita registrar pedidos,
+emitir facturas, controlar el inventario y generar reportes de ventas, para poder mejorar
+la organización y la eficiencia de los procesos que se desarrolan en el mismo.
+

@@ -7,3 +7,9 @@ En esta carpeta se encuentran los diagramas UML de cada usuario del sistema.
 
 ## 2. Mesero
 ![Mesero](2-radiografia-mesero.drawio.png)
+
+## 3. Cajero
+![Usuario](3-radiografia-cajero.png)
+
+## 4. Administrador
+![Mesero](4-radiografia-administrador.png)

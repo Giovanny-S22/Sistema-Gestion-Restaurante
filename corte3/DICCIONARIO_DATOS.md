@@ -1,3 +1,7 @@
+# CONSTRUCCIÓN DEL DICCIONARIO
+## 1.Tabla Procutos
+![Productos](1.TablaProductos.png)
+
 # DEFINICIÓN DE ROLES Y FUNCIONES
 
 ## 1) ¿Qué rol es el encargado de capturar estos datos?
